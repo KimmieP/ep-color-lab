@@ -2,7 +2,7 @@
 
 **Real-Time Color Conversion & Harmony Generator**
 
-A lightweight, browser-based tool for designers and developers to generate accessible color palettes using mathematical harmonies rather than "AI guessing."
+A lightweight, browser-based tool for designers and developers to generate accessible color palettes using mathematical harmonies rather than just guessing.
 
 **[🔗 Try the Live App Here](https://KimmieP.github.io/ep-color-lab/)**
 
