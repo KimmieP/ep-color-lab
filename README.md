@@ -4,7 +4,7 @@
 
 A lightweight, browser-based tool for designers and developers to generate accessible color palettes using mathematical harmonies rather than "AI guessing."
 
-**[🔗 Try the Live App Here](https://github.com/KimmieP/ep-color-lab/)**
+**[🔗 Try the Live App Here](https://KimmieP.github.io/ep-color-lab/)**
 
 ---
 
